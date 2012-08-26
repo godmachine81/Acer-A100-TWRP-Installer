@@ -1,0 +1,43 @@
+Installation Instructions
+
+Windows:
+
+1. Extract the A100-TWRP-2.2.2.0-auto-install.zip  to a location you 
+   are familiar with such as My Documents or Desktop.
+
+2. Navigate to the extracted directory in your Windows Explorer or Favorite file manager
+
+3. Connect your A100 device by USB to the PC.
+
+4. Double Click the  install-windows.bat  file to run the batch script
+
+5. Follow on screen instructions until your device has completed the installation and
+   rebooted into recovery
+
+	**Please note this install guide assumes you already have your windows
+	  device drivers installed for the A100 and ADB **
+
+
+Linux/MacOSX:
+
+1. Extract the A100-TWRP-2.2.2.0-auto-install.zip to a location you have access
+   to in your linux/mac file system.
+
+2. Open a Terminal and change to the directory you extracted the zip file to:
+	i.e.  if you extracted to ~/Documents/A100-TWRP-install/
+	then you'd do:  cd ~/Documents/A100-TWRP-install/
+
+3. Connect your A100 device by USB to the PC.
+
+4. Start the script by running the command: 
+     bash ./install-linux.sh
+   
+5. Follow on screen instructions until your device has completed the installation and
+   rebooted into recovery
+
+
+If you have any questions please contact godmachine81 on irc.freenode.net   I am usually 
+in the #iconia-dev  channel  or you may send me a PM on XDA in which I am registered by the
+name 'linuxsociety'   Thanks for using the install script and hope you enjoy!
+
+
